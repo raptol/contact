@@ -1,0 +1,12 @@
+test01
+010-1111-1111
+test@gmail.com
+Seoul
+test02
+010-2222-222
+test1@gmail.com
+Seoul SeongdongGu
+test03
+010-3333-3333
+test3@gmail.com
+Seoul Seongdong-gu Seongsuil-ro
